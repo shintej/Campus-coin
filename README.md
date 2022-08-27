@@ -1,5 +1,5 @@
-# IITK Coin
-*A centralized pseudo-currency system to be used in IIT Kanpur*
+# Campus Coin
+*A centralized pseudo-currency system to be used on a campus*
 
 - Containerized application accessible on [DockerHub](https://hub.docker.com/r/asishmandoi/iitk-coin)
 - Source code accessible on [GitHub](https://github.com/AsishMandoi/iitk-coin)
